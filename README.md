@@ -1,7 +1,8 @@
 # Gender-classification-simple-project
 Simple gender classification project:
-gender_classification.ipynb contains the model training code.
-model_test.ipynb contains code for testing.
+<br>
+gender_classification.ipynb contains the model training code.<br>
+model_test.ipynb contains code for testing.<br>
 
 Training data : https://drive.google.com/file/d/1DMkkcdZBFDr2R7YOir2z_aA9ekTSH4Pq/view?usp=sharing
 <br>
